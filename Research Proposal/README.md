@@ -4,13 +4,13 @@ Quantum computing is a highly invested area of research with vast potential acro
 
 ## Related work: 
 
-# Attack technique
+### Attack technique
 
 <h3 align="left">A Side-Channel Attack on a Masked IND-CCA Secure Saber KEM </h3>
 
 <a href="https://eprint.iacr.org/2021/079.pdf"><img src="https://github.com/user-attachments/assets/a4a28599-dfec-414f-993c-0e674ed34082" style="height: 70%; width:70%;"/></a>
 
-# Defense technique
+### Defense technique
 
 <h3 align="left">Efficiently Masking Binomial Sampling at Arbitrary Orders for Lattice-Based Crypto</h3>
 
